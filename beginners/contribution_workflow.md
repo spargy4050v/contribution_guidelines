@@ -5,6 +5,8 @@ to contribute to GCET-OSS projects. Follow these steps
 carefully so your contribution can be reviewed and merged
 smoothly.
 
+Starting out here are some steps:
+
 ---
 
 ## 1. Fork the Repository

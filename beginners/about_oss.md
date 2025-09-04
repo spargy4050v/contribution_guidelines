@@ -10,6 +10,8 @@ of Engineering and Technology.
 This is the home for projects, experiments, and contributions from
 students and developers who believe in learning and building together.
 
+The projects list will be listed in the site, you can visit and pick
+any project that is hosted by GCET-OSS
 ---
 
 ## What is OSS
